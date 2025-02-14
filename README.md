@@ -1,6 +1,7 @@
+![toolxox com-enhanced-XArSH6gzj7Wt82PRCZFK9Tu4dV0EBy](https://github.com/user-attachments/assets/2a98fd72-41d2-4c19-8493-cae0067bae26)
 <b>!!! Check out our new [paper](https://arxiv.org/pdf/2104.11280.pdf) and [framework](https://github.com/snap-research/articulated-animation) improved for articulated objects</b>
 
-# First Order Motion Model for Image Animation
+# Ashwanth Motion Model For Image Animation
 
 This repository contains the source code for the paper [First Order Motion Model for Image Animation](https://papers.nips.cc/paper/8935-first-order-motion-model-for-image-animation) by Aliaksandr Siarohin, [Stéphane Lathuilière](http://stelat.eu), [Sergey Tulyakov](http://stulyakov.com), [Elisa Ricci](http://elisaricci.eu/) and [Nicu Sebe](http://disi.unitn.it/~sebe/). 
 
